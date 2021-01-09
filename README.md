@@ -1,4 +1,5 @@
-<div style="text-align=center;">
+<div align="center">
+  
 ### Hi there 👋
 
 - 🔭 I’m currently a Senior student
