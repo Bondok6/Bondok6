@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love eating, but my weight is 50kg 😑
 
-<div align="center">
+<p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical&count_private=true)
-</div>
+</p>
