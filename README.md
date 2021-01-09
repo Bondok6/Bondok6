@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 I’m currently a Senior student.
+**🔭 I’m currently a Senior student.
 
 🌱 I’m currently learning React.js.
 
@@ -12,7 +12,7 @@
 
 😄 Pronouns: He/His.
 
-⚡ Fun fact: I love eating, but my weight is 50kg 😑.
+⚡ Fun fact: I love eating, but my weight is 50kg.**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical&hide=contribs,prs)
 
