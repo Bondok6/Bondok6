@@ -1,3 +1,4 @@
+<div style="text-align=center;">
 ### Hi there 👋
 
 - 🔭 I’m currently a Senior student
@@ -9,4 +10,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical&count_private=true)
 
-
+</div>
