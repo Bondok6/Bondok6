@@ -6,4 +6,5 @@
 - 📫 How to reach me: [Facebook-@kyrillos](https://www.facebook.com/kyrillosbondok), [Instagram-@kyrillos](https://www.instagram.com/kyrillos_bondok/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love eating, but my weight is 50kg 😑
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bondok6)](https://github.com/Bondok6)
