@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 - **🔭 I’m currently a Senior student**
 - **🌱 I’m currently learning React.js**
