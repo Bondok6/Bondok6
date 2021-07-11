@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- **🔭 I’m a fresh graduate**
+- **🔭 I’m a Fresh graduate**
 - **🌱 I’m currently learning React.js**
 - **💬 Ask me about Frontend track**
 - **📫 How to reach me: [Facebook](https://www.facebook.com/kyrillosbondok), [Instagram](https://www.instagram.com/kyrillos_bondok/), [Linkedin](https://www.linkedin.com/in/kyrillos-hany/)**
