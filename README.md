@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kyrillos Hany
 
 - **🔭 I’m a fresh graduate**
-- **🌱 I’m currently learning `React.js`**
+- **🌱 I’m currently learning `React.js`, `TypeScript`**
 - **💬 Ask me about Frontend track**
 - **📫 How to reach me: [Facebook](https://www.facebook.com/kyrillosbondok), [Instagram](https://www.instagram.com/kyrillos_bondok/), [Linkedin](https://www.linkedin.com/in/kyrillos-hany/)**
 - **🌐 Check my portfolio: [Portfolio](https://bondok6.github.io/My-Portfolio/)**
