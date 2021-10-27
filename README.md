@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bondok6&layout=compact&theme=radical"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bondok6&layout=compact&theme=radical"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical&hide=contribs,prs"/> -->
 </div>
 
