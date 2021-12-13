@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Kyrillos Hany
 
 - **🔭 I’m a fresh graduate**
+- **💻 I'm a Software Engineer**   
 - **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 - **💬 Ask me about Frontend track**
 - **📫 How to reach me: [Facebook](https://www.facebook.com/kyrillosbondok), [Instagram](https://www.instagram.com/kyrillos_bondok/), [Linkedin](https://www.linkedin.com/in/kyrillos-hany/)**
