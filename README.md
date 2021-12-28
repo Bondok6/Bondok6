@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Kyrillos Hany
 
+<img src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" width="400" align="right">
+
 - **🔭 I’m a fresh graduate**
 - **💻 I'm a Software Engineer**   
 - **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
@@ -10,7 +12,7 @@
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
-
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300" align="right">
 <div>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
