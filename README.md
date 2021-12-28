@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kyrillos Hany
 
-<img src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" width="400" align="right">
+<img src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" width="360" align="right">
 
 - **🔭 I’m a fresh graduate**
 - **💻 I'm a Software Engineer**   
