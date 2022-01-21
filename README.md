@@ -5,7 +5,7 @@
 - **🔭 I’m a Fresh Graduate**
 - **💻 I'm a Software Engineer**   
 - **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
-- **💬 Ask me about Frontend track**
+- **💬 Ask me about Front-end track**
 - **📫 How to reach me: [Facebook](https://www.facebook.com/kyrillosbondok), [Instagram](https://www.instagram.com/kyrillos_bondok/), [Linkedin](https://www.linkedin.com/in/kyrillos-hany/)**
 - **🌐 Check my [Portfolio](https://bondok6.github.io/My-Portfolio/)**
 
