@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" width="360" align="right">
 
-- **🔭 I’m a Fresh Graduate**
+- **🔭 I’m a fresh Graduate**
 - **💻 I'm a Software Engineer**   
 - **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 - **💬 Ask me about Front-end track**
