@@ -9,9 +9,10 @@
 - **📫 How to reach me: [Facebook](https://www.facebook.com/kyrillosbondok), [Instagram](https://www.instagram.com/kyrillos_bondok/), [Linkedin](https://www.linkedin.com/in/kyrillos-hany/)**
 - **🌐 Check my [Portfolio](https://bondok6.github.io/My-Portfolio/)**
 
-<img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Bondok6.visitor-badge" alt="visitors"> 
+<img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=Bondok6)
 
-<!-- ![](https://komarev.com/ghpvc/?username=Bondok6) -->
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Bondok6.visitor-badge" alt="visitors">  -->
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 <!-- <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300" align="right"> -->
