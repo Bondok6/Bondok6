@@ -11,6 +11,7 @@
 
 <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Bondok6.visitor-badge" alt="visitors"> 
 
+<!-- ![](https://komarev.com/ghpvc/?username=Bondok6) -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 <!-- <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300" align="right"> -->
