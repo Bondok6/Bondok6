@@ -33,13 +33,12 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 </div>
-
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical"/>
-
-<div align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bondok6&layout=compact&theme=radical"/> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical&hide=contribs,prs"/>  -->
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical"/> &nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Bondok6&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bondok6&date_format=M%20j%5B%2C%20Y%5D)]() -->
+
+
