@@ -23,6 +23,7 @@
 <div>
   <div>
     <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
+    <code><img height="35" src="https://user-images.githubusercontent.com/45231276/166199417-71e1f26e-1da7-448c-be42-da4015fcba27.png"/></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
