@@ -1,6 +1,7 @@
 # Hi there 👋
 
-<!-- - **🔭 I’m a fresh graduate** -->
+<img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/> <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
+
 **🔵 I'm a Software Engineer**   
 
 **🟠 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
@@ -11,13 +12,9 @@
 
 **🔵 Check [my resume](https://docs.google.com/document/d/1rkT_79Hb5qYM3IEzFmh1VZJxqEaDohz1gZBjnTkI1Jw/edit?usp=sharing)**
 
-<img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; ![visitors](https://komarev.com/ghpvc/?username=Bondok6)
-
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Bondok6.visitor-badge" alt="visitors">  -->
-
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
-<!-- <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300" align="right"> -->
+
 <div>
   <div>
     <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
