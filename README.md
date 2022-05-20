@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/> <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
+<img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/><img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
 
 **🔵 I'm a Software Engineer**   
 
