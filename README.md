@@ -4,13 +4,13 @@
 
 **🔵 I'm a Software Engineer**   
 
-**🟠 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
+<!-- **🟠 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet) -->
 
-**🔵 Ask me about Front-end track**
+**🟠 Ask me about Front-end track**
 
-**🟠 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/), <a href="mailto:kyrilloshany99@gmail.com" target="_blanck"> Gmail </a>**
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/), <a href="mailto:kyrilloshany99@gmail.com" target="_blanck"> Gmail </a>**
 
-**🔵 Check [my resume](https://docs.google.com/document/d/1rkT_79Hb5qYM3IEzFmh1VZJxqEaDohz1gZBjnTkI1Jw/edit?usp=sharing)**
+**🟠 Check [my resume](https://docs.google.com/document/d/1rkT_79Hb5qYM3IEzFmh1VZJxqEaDohz1gZBjnTkI1Jw/edit?usp=sharing)**
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
