@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,electron,next,vue,nuxt,vite,svelte,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,python,ruby,rails,markdown,figma,vscode,github,netlify,vercel,heroku,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,electron,next,vue,nuxt,vite,svelte,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,python,markdown,figma,vscode,github,netlify,vercel,heroku,bash)](https://skillicons.dev)
 
 <br>
 
