@@ -9,8 +9,6 @@
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/), <a href="mailto:kyrilloshany99@gmail.com" target="_blanck"> Gmail </a>**
 
-**🟠 [my portfolio](https://kyrillos-portfolio.vercel.app/)**
-
 <!-- **🟠 I’m currently code reviewer at** ![](https://img.shields.io/badge/Microverse-blueviolet) -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
