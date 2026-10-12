@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/>
 
 **🔵 I'm a Software Engineer**   
 
